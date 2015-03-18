@@ -9,3 +9,4 @@ Api.setPagamento('boleto', {
 Api.Post(function(err, result){
     console.log(err);
 });
+    
