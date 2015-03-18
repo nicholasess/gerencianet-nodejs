@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "js2xmlparser": "^0.1.9",
+    "lodash": "^3.5.0",
+    "request": "^2.53.0",
+    "xml2js": "^0.4.5"
+  },
+  "name": "gerencianet-nodejs",
+  "version": "0.0.1",
+  "description": "Módulo para integração com o webservice do gerencianet",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicholasess/gerencianet-nodejs"
+  },
+  "keywords": [
+    "gerencianet",
+    "nodejs"
+  ],
+  "author": "Nicholas Eduardo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicholasess/gerencianet-nodejs/issues"
+  },
+  "homepage": "https://github.com/nicholasess/gerencianet-nodejs"
+}
