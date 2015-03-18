@@ -1,5 +1,5 @@
 var gerencianetnodejs = require('./gerencianet-nodejs');
-var Api = new gerencianetnodejs("BBCC49FBFB2174A40D73BA76E7FAD272A0D0A821", 'env');
+var Api = new gerencianetnodejs("", '');
 
 //Api.setCliente({});
 Api.setPagamento('boleto', {
